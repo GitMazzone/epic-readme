@@ -1,0 +1,18 @@
+{
+	"name": "epic-readme",
+	"version": "1.0.0",
+	"description": "Generate a pretty README.md file via CLI. Includes badges, most common sections, and recommendations.",
+	"author": "Michael Mazzone",
+	"license": "MIT",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"readme",
+		"cli",
+		"generate",
+		"markdown"
+	],
+	"bin": "./main.js"
+}
