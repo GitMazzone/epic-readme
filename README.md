@@ -20,9 +20,7 @@
 <p align="center">
   <a href="CONTRIBUTING.md">Contributing Guidelines</a>
   ·
-  <a href="https://github.com/angular/angular/issues">Submit an Issue</a>
-  ·
-  <a href="https://blog.angular.io/">Blog</a>
+  <a href="https://github.com/GitMazzone/wowza/issues">Submit an Issue</a>
   <br>
   <br>
 </p>
