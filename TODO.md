@@ -28,3 +28,5 @@ Features I'd like to implement
   -
 
 Think about best user flow. Get the minimal amount of info to generate a project, or allow them to provide a package.json to generate from?
+
+Focus on Angular first, then React. Generate README and scripts accordingly.
